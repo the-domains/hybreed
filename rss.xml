@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[hybreed]]></title>
         <description><![CDATA[hybreed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hybreed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 17:48:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 18:01:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hybreed/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>New design for swiss pearl</p>]]></description>
-            <link>undefinedb25b710f-a4e8-44a8-a886-744720b2243c/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8179c4210a0e5e07ef9351281692e8d7693c797.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/hybreed/b25b710f-a4e8-44a8-a886-744720b2243c/index.html</link>
             <guid isPermaLink="false">b25b710f-a4e8-44a8-a886-744720b2243c</guid>
-            <pubDate>Sun, 31 Jan 2016 17:48:14 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 17:59:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
